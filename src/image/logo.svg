@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="509.412" viewBox="0 0 512 509.412">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.22" y1="0.955" x2="0.928" y2="0.443" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5a36d4"/>
+      <stop offset="1" stop-color="#2d1b6a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.823" y1="0.864" x2="0.155" y2="0.38" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e88f42"/>
+      <stop offset="1" stop-color="#c95f00"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-598 -35.588)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M52,0l52,104H0Z" transform="translate(686.648 442.302) rotate(-138)" fill="#5a36d4"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="131" cy="131" r="131" transform="translate(647 133)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(722 252)" fill="#fff"/>
+    <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(766 252)" fill="#fff"/>
+    <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(810 252)" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M110.776,75.819c58.378-67.928,53.084,26.947,53.061,55.8s-11.7,142.758-42.431,121.561S52.4,143.747,110.776,75.819Z" transform="translate(842.382 6.886) rotate(67)" fill="#fff" opacity="0.34"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="124.5" cy="126.5" rx="124.5" ry="126.5" transform="translate(798.361 89)" opacity="0.6"/>
+    <path id="Path_2" data-name="Path 2" d="M103.135,12.683C159.56-28.332,157,62.009,157,138.5s34.876,129.969-43.21,82.069S46.71,53.7,103.135,12.683Z" transform="translate(675.609 70.113) rotate(31)" fill="#fff" opacity="0.06"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M52,0l52,104H0Z" transform="translate(1110 319.713) rotate(138)" fill="#e88f42"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="131" cy="131" r="131" transform="translate(810.361 80)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_3" data-name="Path 3" d="M111,114.143c46.656-33.782,70.964,59.2,67.6,113.636s46.022,148.445-46.577,93.572S64.342,147.926,111,114.143Z" transform="matrix(-0.469, 0.883, -0.883, -0.469, 1220.559, 133.086)" fill="#fff" opacity="0.34"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="12" cy="12" r="12" transform="translate(885 199)" fill="#fff"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="12" cy="12" r="12" transform="translate(929 199)" fill="#fff"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="12" cy="12" r="12" transform="translate(973 199)" fill="#fff"/>
+    <text id="GHIBAH" transform="translate(598 490)" fill="#fff" font-size="70" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="0" y="0">GHIBAH</tspan></text>
+    <text id="ROOM" transform="translate(871 490)" fill="#fcfcfc" font-size="70" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">ROOM</tspan></text>
+    <text id="lets_talk..." data-name="lets talk..." transform="translate(761 537)" fill="#707070" font-size="30" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">LETS TALK...</tspan></text>
+  </g>
+</svg>
