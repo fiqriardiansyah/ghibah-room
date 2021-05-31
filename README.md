@@ -1,13 +1,12 @@
 # Ghibah Room
 
-![Project Image](https://ik.imagekit.io/p4ukigs1hrvx/movie-catalogue_QGl6HqsVr.png)
+![Project Image](https://ik.imagekit.io/p4ukigs1hrvx/default-image.jpg)
 
 > weird enough ha
 
 ---
 
 ### Table of Contents
-web application that you can use to chatting with people
 
 - [Description](#description)
 - [Author Info](#author-info)
@@ -16,7 +15,7 @@ web application that you can use to chatting with people
 
 ## Description
 
-a simple aplication that use in course dicoding android jetpack pro
+web application that you can use to chatting with people
 
 
 ## Author Info
