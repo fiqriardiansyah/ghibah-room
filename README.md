@@ -1,3 +1,30 @@
+# Ghibah Room
+
+![Project Image](https://ik.imagekit.io/p4ukigs1hrvx/movie-catalogue_QGl6HqsVr.png)
+
+> weird enough ha
+
+---
+
+### Table of Contents
+web application that you can use to chatting with people
+
+- [Description](#description)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+a simple aplication that use in course dicoding android jetpack pro
+
+
+## Author Info
+- Website - [Fiqri ardiansyah - dev](https://fiqriardiansyah-dev.web.app/)
+
+[Back To The Top](#read-me-template)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
